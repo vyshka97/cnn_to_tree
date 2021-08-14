@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+h5py
+tensorboard
+lmdb
+attrs
+tqdm
+jupyter
+opencv-python
